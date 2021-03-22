@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'my-app';
+  saludo = 'Esta es mi primera propiedad con Angular';
 }
